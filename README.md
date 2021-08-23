@@ -17,10 +17,6 @@ A lot of machine learning applications like detecting a object needs a dataset w
 <img src="images/bounding_box1.PNG" width=500 />
 </p>
 
-<p align="center">
-<img src="images/output.PNG" />
-</p>
-
 # Language Used
 Python, Tensorflow, OpenCV
 
